@@ -25,7 +25,7 @@ An educational UART TX/RX design implemented in SystemVerilog, with an internal 
 ## Repository Structure
 
 ```
-Comm_protocol/
+uart_tx_rx_systemverilog
 │
 ├── baud_gen.sv          # Baud rate generator (single-cycle tick pulse generator)
 ├── uart_tx.sv           # UART transmitter (FSM + PISO shift register)
